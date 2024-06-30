@@ -110,5 +110,7 @@ footer {
     #menu > li {
         padding-left: 1rem;
     }
-
+    .nav-toggle-lable {
+        display: none;
+    }
 }
