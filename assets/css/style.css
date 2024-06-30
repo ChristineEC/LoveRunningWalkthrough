@@ -81,12 +81,20 @@ nav {
     font-size: 2rem;
 }
 
+#logo {
+    font-size: 280%;
+    line-height: 75px;
+    margin: 0 0.5rem;
+}
+
+
+
 /* Main */
 main {
     background-color: lightblue;
     /* Make main area take up any surplus space to force border to bottom of page  */
     flex: 1 0 auto;
-    margin-top: 47px;
+    margin-top: 79px;
 }
 
 /* Footer */
