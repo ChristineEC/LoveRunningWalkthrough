@@ -91,10 +91,16 @@ nav {
 
 /* Main */
 main {
-    background-color: lightblue;
+    
     /* Make main area take up any surplus space to force border to bottom of page  */
     flex: 1 0 auto;
     margin-top: 79px;
+}
+/* Hero section */
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("../images/hero-image.webp") no-repeat center center/cover;
 }
 
 /* Footer */
