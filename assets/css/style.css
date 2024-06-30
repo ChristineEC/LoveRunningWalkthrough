@@ -86,6 +86,7 @@ main {
     background-color: lightblue;
     /* Make main area take up any surplus space to force border to bottom of page  */
     flex: 1 0 auto;
+    margin-top: 47px;
 }
 
 /* Footer */
