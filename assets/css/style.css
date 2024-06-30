@@ -77,7 +77,7 @@ nav {
     display: none;
 }
 
-.nav-toggle-lable {
+.nav-toggle-label {
     font-size: 2rem;
 }
 
@@ -110,7 +110,7 @@ footer {
     #menu > li {
         padding-left: 1rem;
     }
-    .nav-toggle-lable {
+    .nav-toggle-label {
         display: none;
     }
 }
